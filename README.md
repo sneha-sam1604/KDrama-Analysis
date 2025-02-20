@@ -19,7 +19,7 @@ The dataset includes the following columns:
 - **Tags**: Additional tags describing the drama
 - **Rank**: Rank of the drama
 - **Rating**: Viewer rating of the drama
-- **Director**: Who directed the drama
+- **Director**: Director of the drama
 - **Screenwriter**: List of screenwriters
 - **Production Companies**: List of all companies that produced the drama
 
