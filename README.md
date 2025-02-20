@@ -46,7 +46,3 @@ The dataset includes the following columns:
 
 ## Conclusion
 This analysis provided insights into the patterns and correlations within the K-Drama dataset. The findings can help understand viewer preferences and trends in the K-Drama industry.
-
-## Repository Contents
-- **Excel File**: Contains the cleaned and transformed dataset, pivot tables, and visualizations.
-- **ReadMe File**: Documentation of the project.
